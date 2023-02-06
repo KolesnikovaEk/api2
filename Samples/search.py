@@ -12,7 +12,7 @@ toponym_to_find = " ".join(sys.argv[1:])
 geocoder_api_server = "http://geocode-maps.yandex.ru/1.x/"
 
 geocoder_params = {
-    "apikey": "40d1649f-0493-4b70-98ba-98533de7710b",
+    "apikey": "4f3697af-958f-4c47-a10e-4aa983d281d4",
     "geocode": toponym_to_find,
     "format": "json"}
 
